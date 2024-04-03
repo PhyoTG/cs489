@@ -1,4 +1,4 @@
-package edu.miu.cs489appsd.lab1b.model;
+package edu.miu.cs.cs489appsd.lab1b.model;
 
 import java.time.LocalDate;
 
